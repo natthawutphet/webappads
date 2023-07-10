@@ -1,0 +1,18 @@
+
+.Google_ads {
+    text-align: center;
+    width: 500px;
+    height: 300px;
+   align-items: center;
+}
+
+@media screen and (max-width:480px) {
+    .Google_ads {
+        text-align: center;
+        width: 300px;
+        height: 150px;
+       align-items: center;
+    }
+    
+} 
+    
