@@ -5,7 +5,7 @@
 
 .banner-bg {
     height: 500px;
-    background: url("ads_bg.jpg") no-repeat;
+    background: url("https://webappads.com/ads_bg.jpg") no-repeat;
     background-size: cover;
     overflow: hidden;
     color: black;
